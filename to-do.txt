@@ -1,0 +1,8 @@
+[1] Gather requirenments
+[2] Formal System Proposal
+{
+	[3] Modelling
+	[4] Coding
+	[5] Testing
+	[6] Technical Documentation
+}

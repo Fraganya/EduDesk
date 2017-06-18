@@ -1,0 +1,13 @@
+EduDesk is a student companion software for easy management of study resources,assessments and time.
+It is pluggable allowing installation of plugins to extend its capabilities.
+
+Modules
+------------------------------------------------------------------------------------------------------------------
+[1] EdBooks (EduBooks)          - an electronic document management system
+[2] EdReader(EduReader)         - a multi-type document reader
+[3] EdAT(Edu Assessment Tracker - an assessment tracking module
+[4] EdTime  (Edu Time)          - a time management module allowing creation of schedules,reminders and time tables
+[5] EdFocus(EduFocus)           - a task-resource,brainstorming  tool
+
+
+System Development Methodolody : Throwaway Prototyping
