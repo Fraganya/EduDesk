@@ -11,5 +11,4 @@ Modules
 [4] EdTime  (Edu Time)          - a time management module allowing creation of schedules,reminders and time tables
 [5] EdFocus(EduFocus)           - a task-resource,brainstorming  tool
 
-
 System Development Methodolody : Throwaway Prototyping
